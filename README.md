@@ -1,6 +1,8 @@
-# Hey there and welcome to my GitHub Repo👋
+# Welcome to My Github Repository!
 
-I'm a petroleum engineering student. I am passionate about learning and developing apps using Python, data science, machine learning and sharing knowledge amongst the community.
+## Hi, I am Alexander 👋
+
+I am a Data Scientist and a Machine Learning Developer. I am passionate about Machine Learning applications in the energy industry and the world. If you would like to collaborate, kindly contact me if you wish! 
 
 ## Find me on the web 🌎:
 - Twitter: https://twitter.com/AIfenaike_
@@ -8,7 +10,7 @@ I'm a petroleum engineering student. I am passionate about learning and developi
 - Medium: https://medium.com/@alexander.ifenaike
 
 
-
+## Github Stats
 ![AIfenaike's github stats](https://github-readme-stats.vercel.app/api?username=aifenaike&show_icons=true&theme=tokyonight)
 
 
