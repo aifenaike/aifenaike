@@ -11,7 +11,7 @@ I am a Data Scientist and a Machine Learning Developer. I am passionate about Ma
 
 
 ## Github Stats
-![AIfenaike's github stats](https://github-readme-stats.vercel.app/api?username=aifenaike&show_icons=true&theme=tokyonight)
+![AIfenaike's Github stats](https://github-readme-stats.vercel.app/api?username=aifenaike&show_icons=true&theme=tokyonight)
 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 <!--
