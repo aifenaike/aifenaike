@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/python.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mysql (1).svg"  width="80" height="50" style="vertical-align:down; margin:4px"/>
 	<img title="FastAPI" alt="FastAPI" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/fastapi.svg"  width="60" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/tensorflow.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Pytorch" alt="Pytorch" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/pytorch.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Mlflow" alt="Mlflow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mlflow.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/git.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/tensorflow.svg" width="70" height="60" style="vertical-align:down; margin:4px"/>
+	<img title="Pytorch" alt="Pytorch" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/pytorch.svg" width="70" height="60" style="vertical-align:down; margin:4px"/>
+  <img title="Mlflow" alt="Mlflow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mlflow.svg" width="90" height="60" style="vertical-align:down; margin:4px"/>
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/git.svg" width="70" height="60" style="vertical-align:down; margin:4px"/>
 </p>
 
 <details>	
