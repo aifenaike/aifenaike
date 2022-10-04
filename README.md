@@ -22,17 +22,20 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/python.svg" alt="Python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/git.svg" alt="Git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mysql (1).svg" alt="MySql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/fastapi.svg" alt="FastAPI"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/tensorflow.svg" alt="TensorFlow"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/pytorch.svg" alt="Pytorch"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mlflow.svg" alt="MlFlow"></code>
+
+
+<p align="center">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/python.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mysql (1).svg"  width="80" height="50" style="vertical-align:down; margin:4px"/>
+	<img title="FastAPI" alt="FastAPI" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/fastapi.svg"  width="60" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/tensorflow.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Pytorch" alt="Pytorch" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/pytorch.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Mlflow" alt="Mlflow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mlflow.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/git.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+</p>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aifenaike&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifenaike&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
