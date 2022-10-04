@@ -1,25 +1,24 @@
 # Welcome to My Github Repository!!
 
 ## Hi, I am Alexander 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-ifenaike-083568185/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AIfenaike_)
 
-I am a Data Scientist and a Machine Learning Developer. I am passionate about Machine Learning applications in the energy industry and the world. If you would like to collaborate, kindly contact me if you wish! 
 
-## Find me on the web 🌎:
-- Twitter: https://twitter.com/AIfenaike_
-- LinkedIn: https://www.linkedin.com/in/alexander-ifenaike-083568185
-- Medium: https://medium.com/@alexander.ifenaike
+I am a Data Scientist and a Machine Learning Developer. I am passionate about delivering scalable software tools and revolutionizing how data is used to drive cost and impact the fields of e-commerce, health, logistics and autonomous systems.
+
+I enjoy building real-time data-driven applications but I mostly work on and experiment with machine learning driven APIs of all sort.
+If you would like to collaborate, kindly contact me if you wish! 
+
+### About Me:
+
+- 🛠 &nbsp; I am currently working at Seqhub Analytics LLC.
+- 🚀 &nbsp; I am currently writing content for my Twitter audience.
+- 🏆 &nbsp; I am currently a beneficiary of Google's 2022 Machine Learning Bootcamp for Machine Learning Engineers.
+- 📈 &nbsp; I am the Machine learning Lead at [Google Developer Students Group](https://gdsc.community.dev/university-of-ibadan/)
 
 
 ## My Github Stats
-
-<!--
-**aifenaike/aifenaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Natural Language Processing
-- 👯 I’m looking to collaborate on Machine Learning Projects
--->
 
 ### Languages and Tools:
 
