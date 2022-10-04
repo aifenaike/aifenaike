@@ -22,3 +22,23 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on Machine Learning Projects
 -->
+
+
+### My GitHub Stats:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aifenaike&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifenaike&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aifenaike&hide_border=true" />
+</details>
+
+#
