@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/python.svg" alt="Python"></code>
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/git.svg" alt="Git"></code>
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/mysql (1).svg" alt="MySql"></code>
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/fastapi.svg" alt="FastAPI"></code>
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/tensorflow.svg" alt="TensorFlow"></code>
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/pytorch.svg" alt="Pytorch"></code>
-<code><img height="40" src="https://github.com/aifenaike/aifenaike/tree/main/assets/mlflow.svg" alt="MlFlow"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/python.svg" alt="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/git.svg" alt="Git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mysql (1).svg" alt="MySql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/fastapi.svg" alt="FastAPI"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/tensorflow.svg" alt="TensorFlow"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/pytorch.svg" alt="Pytorch"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mlflow.svg" alt="MlFlow"></code>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
