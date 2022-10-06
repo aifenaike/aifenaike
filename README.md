@@ -48,7 +48,6 @@ If you would like to collaborate, kindly contact me if you wish!
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Weight&Biases" src = "https://img.shields.io/static/v1?style=for-the-badge&message=Weights+%26+Biases&color=222222&logo=Weights+%26+Biases&logoColor=FFBE00&label="></a> 
     <a href="#"><img alt="MLflow" src = "https://staging.shields.io/badge/-MLflow-informational"></a> 
-	  
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
