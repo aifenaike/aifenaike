@@ -20,7 +20,7 @@ If you would like to collaborate, kindly contact me if you wish!
 
 ## My Github Stats
 
-<h2 align="center">
+<h2 align="left">
  🛠️ Language and Tools
 </h2>
 
