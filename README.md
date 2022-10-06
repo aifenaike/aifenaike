@@ -21,7 +21,7 @@ If you would like to collaborate, kindly contact me if you wish!
 ## My Github Stats
 
 <h2 align="center">
-###  🛠️ Language and Tools
+ 🛠️ Language and Tools
 </h2>
 
 <p align="center">
@@ -30,6 +30,7 @@ If you would like to collaborate, kindly contact me if you wish!
     <a href="https://github.com/search?q=user%3Aaifenaike+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aaifenaike+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aaifenaike+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="FastAPI" src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a> 
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -44,27 +45,17 @@ If you would like to collaborate, kindly contact me if you wish!
     <a href="#"><img alt="Dash" src = "https://img.shields.io/static/v1?style=for-the-badge&message=Dash&color=008DE4&logo=Dash&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Streamlit" src="https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Weight&Biases" src = "https://img.shields.io/static/v1?style=for-the-badge&message=Weights+%26+Biases&color=222222&logo=Weights+%26+Biases&logoColor=FFBE00&label="></a> 
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src = "https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label="></a> 
-    
+	    
     </p align="left">
 </p align="center">
 
-### Languages and Tools:
-
-
-<p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/python.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mysql (1).svg"  width="80" height="50" style="vertical-align:down; margin:4px"/>
-	<img title="FastAPI" alt="FastAPI" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/fastapi.svg"  width="60" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/tensorflow.svg" width="100" height="60" style="vertical-align:down; margin:4px"/>
-	<img title="Pytorch" alt="Pytorch" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/pytorch.svg" width="100" height="70" style="vertical-align:down; margin:4px"/>
-  <img title="Mlflow" alt="Mlflow" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/mlflow.svg" width="90" height="70" style="vertical-align:down; margin:4px"/>
-  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/aifenaike/aifenaike/main/assets/git.svg" width="70" height="60" style="vertical-align:down; margin:4px"/>
-</p>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
