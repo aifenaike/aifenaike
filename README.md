@@ -15,7 +15,7 @@ If you would like to collaborate, kindly contact me if you wish!
 - 🛠 &nbsp; I am currently working at Seqhub Analytics LLC.
 - 🚀 &nbsp; I am currently writing content for my Twitter audience.
 - 🏆 &nbsp; I am currently a beneficiary of Google's 2022 Machine Learning Bootcamp for Machine Learning Engineers.
-- 📈 &nbsp; I am the Machine learning Lead at [Google Developer Students Group](https://gdsc.community.dev/university-of-ibadan/)
+<!-- - 📈 &nbsp; I am the Machine learning Lead at [Google Developer Students Group](https://gdsc.community.dev/university-of-ibadan/) -->
 
 
 ## My Github Stats
@@ -47,13 +47,15 @@ If you would like to collaborate, kindly contact me if you wish!
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Weight&Biases" src = "https://img.shields.io/static/v1?style=for-the-badge&message=Weights+%26+Biases&color=222222&logo=Weights+%26+Biases&logoColor=FFBE00&label="></a> 
+    <a href="#"><img alt="MLflow" src = "https://staging.shields.io/badge/-MLflow-informational"></a> 
+	  
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src = "https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label="></a> 
 	    
-    </p align="left">
+  </p align="left">
 </p align="center">
 
 
