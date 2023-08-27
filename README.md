@@ -12,11 +12,7 @@ If you would like to collaborate, kindly contact me if you wish!
 
 ### About Me:
 
-- 🛠 &nbsp; I am currently working at Seqhub Analytics LLC.
 - 🚀 &nbsp; I am currently writing content for my Twitter audience.
-- 🏆 &nbsp; I am currently a beneficiary of Google's 2022 Machine Learning Bootcamp for Machine Learning Engineers.
-<!-- - 📈 &nbsp; I am the Machine learning Lead at [Google Developer Students Group](https://gdsc.community.dev/university-of-ibadan/) -->
-
 
 ## My Github Stats
 
